@@ -1,2 +1,2 @@
 /*
-  CONTENT-SECURITY-POLICY: default-src 'self'; form-action 'self'; report-uri https://cspf.report-uri.com/r/d/csp/enforce; font-src *
+  CONTENT-SECURITY-POLICY: default-src 'self'; form-action 'self'; report-uri https://cspf.report-uri.com/r/d/csp/enforce; font-src 'self' data:;
